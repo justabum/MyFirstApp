@@ -1,0 +1,6 @@
+{
+	"appId": "io.swottle.starter",
+	"appName": "MyFirstApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
